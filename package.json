@@ -1,0 +1,30 @@
+{
+  "name": "nodejschart",
+  "version": "1.0.0",
+  "description": "nodejs chart http://www.fusioncharts.com/tutorials/creating-interactive-charts-using-node-express-and-mongodb/",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^2.0.1",
+    "handlebars": "^4.0.5",
+    "jade": "^1.11.0",
+    "mongodb": "^2.1.18",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiju84/nodejschart.git"
+  },
+  "author": "javiju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiju84/nodejschart/issues"
+  },
+  "homepage": "https://github.com/javiju84/nodejschart#readme"
+}
